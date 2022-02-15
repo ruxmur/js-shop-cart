@@ -60,3 +60,7 @@ let inCart = JSON.parse(localStorage.getItem('inCart'));
 	document.getElementById("full-cart").hidden = true;
 	updateCartCount();
 	}
+
+
+
+    
